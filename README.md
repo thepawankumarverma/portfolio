@@ -1,5 +1,4 @@
 # 💼 Pawan Kumar Verma — Full Stack MERN Developer
-<br>
 Welcome to my portfolio repository! I'm a passionate and results-driven **freelance Full Stack Web Developer** specializing in the **MERN stack** (MongoDB, Express, React, Node.js).
 
 I build responsive, scalable, and user-friendly web applications that solve real-world problems.
@@ -18,50 +17,15 @@ Hi! I'm **Pawan**, a self-motivated developer with a strong focus on **clean UI*
 
 ---
 
-## 📁 Projects
 
-Here are a few highlights from my portfolio:
-
-### 🛒 **E-Commerce App**
-> A fully responsive e-commerce platform with product browsing, cart, and checkout.
-
-- React + Tailwind + Node.js + MongoDB
-- JWT-based login system
-- Admin product management
-
-🔗 [Live Demo](https://your-ecommerce-site.com) | [Source Code](https://github.com/yourusername/ecommerce-app)
-
----
-
-### 📋 **Task Manager**
-> Manage tasks with deadlines, priority levels, and user-specific dashboards.
-
-- MERN Stack + Redux + JWT
-- CRUD operations with MongoDB
-- Hosted with backend on Render and frontend on Vercel
-
-🔗 [Live Demo](https://your-task-app.com) | [Source Code](https://github.com/yourusername/task-manager)
-
----
-
-### 📍 **Real-time Location Tracker**
-> Track location using Geolocation API and WebSockets.
-
-- React Native frontend (optional)
-- Express + Socket.io backend
-- Real-time location updates
-
-🔗 [Live Demo](https://your-location-tracker.com) | [Source Code](https://github.com/yourusername/location-tracker)
-
----
 
 ## 📬 Get in Touch
 
 I'm currently open for **freelance MERN stack projects** and **collaborations**.
 
-- 🌐 Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 📱 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+
+- 📧 Email: [pawanroy2004@example.com](mailto:pawanroy2004@example.com)
+- 📱 LinkedIn: [linkedin.com/in/pawankumarverma]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/pawan-kumar-verma-804704308/))
 
 ---
 
