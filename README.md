@@ -25,7 +25,7 @@ I'm currently open for **freelance MERN stack projects** and **collaborations**.
 
 
 - 📧 Email: [pawanroy2004@example.com](mailto:pawanroy2004@example.com)
-- 📱 LinkedIn: [linkedin.com/in/pawankumarverma]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/pawan-kumar-verma-804704308/))
+- 📱 LinkedIn: [[https://linkedin.com/in/pawankumarverma](https://www.linkedin.com/in/pawan-kumar-verma-804704308/)](https://www.linkedin.com/in/pawan-kumar-verma-804704308/))
 
 ---
 
